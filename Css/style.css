@@ -910,7 +910,7 @@ color: black;
     transform: translate(-50%,0);
 }
 .footer .log:hover{
-    background: url(../photo/ali.hover.gif);
+    background: url(../photo/ali.hover.ico);
     background-size: cover;
     width: 10rem;
     height: 10rem;
